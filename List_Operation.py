@@ -1,4 +1,4 @@
-# Part 1: Basic Operations with Lists
+#  Basic Operations with Lists
 
 # Task 1
 numbers = [1, 2, 3, 4, 5]
